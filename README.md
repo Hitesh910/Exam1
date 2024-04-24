@@ -1,3 +1,3 @@
 <p>
-  <img src = "https://github.com/Hitesh910/Exam1/assets/154861495/430979fb-1f3f-4e3a-b906-578956b7695c"height="600"width="450"/>
+  <img src = "https://github.com/Hitesh910/Exam1/assets/154861495/430979fb-1f3f-4e3a-b906-578956b7695c"height="850"width="450"/>
 </p>
