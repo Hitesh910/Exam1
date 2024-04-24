@@ -240,7 +240,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       shoesList.length,
                       (index) => InkWell(
                             onTap: () {
-                              Map m1 = shoesList[index];
+                              Map m1 = sandalList[index];
                               Navigator.pushNamed(context, 'product',
                                   arguments: m1);
                             },
